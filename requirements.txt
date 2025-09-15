@@ -1,8 +1,9 @@
 
 snowflake-snowpark-python
 streamlit
-requests
 pandas
+requests
+
 
 #name: app_environment
 #channels:
